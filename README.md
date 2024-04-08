@@ -1,4 +1,4 @@
-![images](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/819e9648-e46c-4e41-9877-0085e0a98801)
+![crypto1](https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/d7a3c903-907c-410a-9c5b-89c28a0e6fec)
 
 ----
 

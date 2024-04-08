@@ -20,47 +20,59 @@ The project includes the following visualizations:
 
 1. K-Means Methods Line Plots for the Original Data
    
-![CryptoClustering221KMeansMethodsLinePlots](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/14f06385-5c28-492f-914a-b27d03c6755e)
+<img width="979" alt="crypto2" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/9f1f582f-9c0e-4ee0-8442-a683e3a71e3f">
 
 2. K-Means Price Change (%) Scatter Plots (2D) for the Original Data
 
-![CryptoClustering331KMeansPriceChangeScatterPlots](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/59188b9a-ebae-4918-8433-9d5ec9ae84b3)
+<img width="948" alt="crypto3" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/2bf20568-1d60-427d-b3fc-198704f68324">
 
 3. K-Means Price Change (%) Scatter Plots (3D) for the Original Data
 
-![CryptoClustering341CryptocurrencyPriceChange3DScatterPlotk3](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/7f3f7745-0f88-4339-9cc6-082c00555ee6)![CryptoClustering342CryptocurrencyPriceChange3DScatterPlotk4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/1e0ced2e-8854-4594-9334-b31ee2bb74cd)
+<img width="939" alt="crypto4" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/922e02da-1275-40ce-ab52-afa09677d180">
 
-![CryptoClustering343CryptocurrencyPriceChange3DScatterPlotk5](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/f920a1f0-e887-487a-9e61-68cecddfd593)![CryptoClustering344CryptocurrencyPriceChange3DScatterPlotk6](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/621c32b8-ffa0-40c1-8790-22b0f12651d9)
+<img width="928" alt="crypto5" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/019804c5-0f2a-4f7b-861b-f15a6c35ba5d">
+
+<img width="919" alt="crypto6" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/e55ba3a6-4251-460f-9c43-435472082e40">
 
 4. K-Means Methods Line Plots with PCA Data.
 
-![CryptoClustering521KMeansMethodswithPCADataLinePlots](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/67662b8a-38a7-4a1d-bbd8-25715808eedc)
+<img width="987" alt="crypto7" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/dbe54819-dfa2-46ac-8224-994197c51f2b">
 
 5. K-Means Price Change (%) Scatter Plots (2D) with PCA Data.
 
-![CryptoClustering631KMeansScatterPlotsPCA1vsPCA2](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/0ee59701-5bba-49b9-8944-d48f8771a454)
+<img width="988" alt="crypto8" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/2b1a8d83-ae1a-48f6-b171-45778697c4ff">
 
-![CryptoClustering632KMeansScatterPlotsPCA1vsPCA3](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/f3304661-2e62-4191-915a-91c1e5dfafd3)
+<img width="988" alt="crypto9" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/278df51d-5511-4480-8a19-c73907ce11dc">
 
-![CryptoClustering633KMeansScatterPlotsPCA2vsPCA3](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/5178b52c-16bb-49f3-95d6-fcc84d2724a0)
+<img width="967" alt="crypto10" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/943a4770-6a1b-41d1-80cb-c49efe94f21b">
 
 6. K-Means Price Change (%) Scatter Plots (3D) with PCA Data.
 
-![CryptoClustering641CryptocurrencyDataUsingPCA3DScatterPlotk3](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/61d44e8c-de31-4d82-87fd-3b9e0416442d)![CryptoClustering641CryptocurrencyDataUsingPCA3DScatterPlotk6](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/659ec468-b13f-4d35-abd1-9a2805e24231)
+<img width="935" alt="crypto11" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/cac4b894-28fd-438a-8896-8ff5bf2cfcb4">
 
-![CryptoClustering642CryptocurrencyDataUsingPCA3DScatterPlotk4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/fd89825a-4470-4fd4-8e27-5d5c01f20a00)![CryptoClustering643CryptocurrencyDataUsingPCA3DScatterPlotk5](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/66687040-5e46-4c0e-bec7-08ee3e1e1272)
+<img width="951" alt="crypto12" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/a0207cd5-b581-4f00-852d-e28a5c0de660">
 
-6.  Comparison of K-Means Methods Line Plots
-   
-![CryptoClustering711KMeansWCSSElbowMethodOriginal](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/55f107b9-beb5-42d1-b0bd-73e4bb842ae0)![CryptoClustering712KMeansWCSSElbowMethodPCA](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/01f6dad5-afe6-4c73-a67c-1bca0d85d881)
+<img width="969" alt="crypto13" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/5af3b439-be80-48a0-900b-feadc7e240e0">
 
-7.  Comparison of K-Means Price Change (%) Scatter Plots (2D)
-   
-![CryptoClustering721KMeansPriceChangeOriginal](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/b1c64366-045b-4065-b2b2-fb53f64e4cf9)![CryptoClustering722KMeansPriceChangePCA](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/e09a1c9b-cc66-446a-a3a1-db361781eb3b)
+<img width="959" alt="crypto14" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/c0da1e44-8a0f-44c0-9c8e-54d7d34ef1c2">
 
-8. Comparison of Comparison of K-Means Price Change (%) Scatter Plots (3D) for k=4
+7.  Comparison of K-Means Methods Line Plots
 
-![CryptoClustering731CryptocurrencyData3DScatterPlotK4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/afbd0da6-0f04-44f7-87c1-4317e31e85ce)![CryptoClustering731CryptocurrencyDatawithPCA3DScatterPlotK4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/87aeafc6-be12-4f1e-a556-632a264162ce)
+<img width="520" alt="crypto15" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/e7d3af85-0fa8-4bce-938e-0c726fa75604">
+
+<img width="497" alt="crypto16" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/2b0e3c3d-f80f-4ce4-8798-15cbfe602132">
+
+9.  Comparison of K-Means Price Change (%) Scatter Plots (2D)
+
+<img width="487" alt="crypto17" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/0bb0a6d0-8a55-4347-8566-bdfe25f85d12">
+
+<img width="502" alt="crypto18" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/b03b404f-09f7-4841-8673-7b12854afc7d">
+
+10. Comparison of Comparison of K-Means Price Change (%) Scatter Plots (3D) for k=4
+
+<img width="957" alt="crypto19" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/ec68f842-c838-40da-b8dc-9478360f539f">
+
+<img width="973" alt="crypto20" src="https://github.com/njgeorge000158/Cryptocurrency-Cluster-Analysis-with-PCA-Using-Scikit-Learn/assets/137228821/4be55a34-b9e9-4b0d-ba09-7ce527c30455">
 
 ## Conclusion
 

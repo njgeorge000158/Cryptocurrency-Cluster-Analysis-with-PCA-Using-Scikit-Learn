@@ -1,4 +1,4 @@
-This folder contains the log files for the IPython notebook, crypto_clustering.ipynb: the IPython Notebook generates the files in Log Mode (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
+This folder contains the log files for the Google Colab notebook, crypto_clustering.ipynb: the Google Colab Notebook generates the files in Log Mode (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
 
 ----
 

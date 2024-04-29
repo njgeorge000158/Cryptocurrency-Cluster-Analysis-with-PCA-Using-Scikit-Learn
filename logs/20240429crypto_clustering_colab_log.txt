@@ -1,5 +1,5 @@
 
-Timepoint: 2024/04/29 04:25:33
+Timepoint: 2024/04/29 22:47:53
 Program execution begins...
 
 
@@ -226,7 +226,7 @@ true-usd                                  -0.08874                     0.40617
 digibyte                                 482.58918                   184.38014  
 
 
-Timepoint: 2024/04/29 04:25:43
+Timepoint: 2024/04/29 22:47:53
 [1mTable 1.2.3: Cryptocurrencies DataFrame Information:
 [0m
 
@@ -538,61 +538,61 @@ true-usd                                 -0.550441                   -0.281747
 digibyte                                  0.572367                   -0.132482  
 
 
-Timepoint: 2024/04/29 04:25:58
+Timepoint: 2024/04/29 22:47:54
 [1mTable 1.3.3: Normalized Cryptocurrency DataFrame Information:
 [0m
 
 
-Timepoint: 2024/04/29 04:26:04
+Timepoint: 2024/04/29 22:48:04
 [1mUsing the WCSS Elbow Method, the optimal value for k is 4.[0m
 
 
-Timepoint: 2024/04/29 04:26:07
+Timepoint: 2024/04/29 22:48:16
 [1mUsing the Calinski-Harabasz Method, the optimal value for k is 4.[0m
 
 
-Timepoint: 2024/04/29 04:26:10
+Timepoint: 2024/04/29 22:48:18
 [1mUsing the Silhouette Method, the optimal value for k is 3.[0m
 
 
-Timepoint: 2024/04/29 04:26:11
+Timepoint: 2024/04/29 22:48:19
 [1mUsing the Davies-Bouldin Method, the optimal value for k is 2.[0m
 
 
-Timepoint: 2024/04/29 04:26:13
+Timepoint: 2024/04/29 22:48:20
 [1mThe array of cluster predictions for k = 2 is as follows:
 
 [0m[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0
  1 1 1 1]
 
 
-Timepoint: 2024/04/29 04:26:13
+Timepoint: 2024/04/29 22:48:20
 [1mThe array of cluster predictions for k = 3 is as follows:
 
 [0m[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1
  0 0 0 0]
 
 
-Timepoint: 2024/04/29 04:26:13
+Timepoint: 2024/04/29 22:48:20
 [1mThe array of cluster predictions for k = 4 is as follows:
 
 [0m[3 3 0 0 3 3 3 3 3 0 0 0 0 3 0 3 0 0 3 0 0 3 0 0 0 0 0 0 3 0 0 0 2 3 0 0 1
  0 0 0 0]
 
 
-Timepoint: 2024/04/29 04:26:27
+Timepoint: 2024/04/29 22:48:21
 PCA1 explained variance: [1m37.20%[0m
 
 
-Timepoint: 2024/04/29 04:26:27
+Timepoint: 2024/04/29 22:48:21
 PCA2 explained variance: [1m34.70%[0m
 
 
-Timepoint: 2024/04/29 04:26:27
+Timepoint: 2024/04/29 22:48:21
 PCA3 explained variance: [1m17.60%[0m
 
 
-Timepoint: 2024/04/29 04:26:27
+Timepoint: 2024/04/29 22:48:21
 The total explained variance of the three principal components is [1m89.50%
 
 [0m
@@ -644,44 +644,44 @@ true-usd             -0.458131 -0.135734 -0.635284
 digibyte             -0.297910 -0.191126 -0.909602
 
 
-Timepoint: 2024/04/29 04:26:32
+Timepoint: 2024/04/29 22:48:23
 [1mUsing the WCSS Elbow Method with PCA components, the optimal value for k is 4.[0m
 
 
-Timepoint: 2024/04/29 04:26:33
+Timepoint: 2024/04/29 22:48:24
 [1mUsing the Calinski-Harabasz Method with PCA components, the optimal value for k is 10.[0m
 
 
-Timepoint: 2024/04/29 04:26:34
+Timepoint: 2024/04/29 22:48:25
 [1mUsing the Silhouette Method with PCA components, the optimal value for k is 3.[0m
 
 
-Timepoint: 2024/04/29 04:26:36
+Timepoint: 2024/04/29 22:48:27
 [1mUsing the Davies-Bouldin Method with PCA components, the optimal value for k is 2.[0m
 
 
-Timepoint: 2024/04/29 04:26:40
+Timepoint: 2024/04/29 22:48:29
 [1mThe array of cluster predictions for k = 2 using PCA data is as follows:
 
 [0m[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1
  0 0 0 0]
 
 
-Timepoint: 2024/04/29 04:26:40
+Timepoint: 2024/04/29 22:48:29
 [1mThe array of cluster predictions for k = 3 using PCA data is as follows:
 
 [0m[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1
  0 0 0 0]
 
 
-Timepoint: 2024/04/29 04:26:40
+Timepoint: 2024/04/29 22:48:29
 [1mThe array of cluster predictions for k = 4 using PCA data is as follows:
 
 [0m[3 3 1 1 3 3 3 3 3 1 1 1 1 3 1 3 1 1 3 1 1 3 1 1 1 1 1 1 3 1 1 1 2 3 1 1 0
  1 1 1 1]
 
 
-Timepoint: 2024/04/29 04:26:40
+Timepoint: 2024/04/29 22:48:29
 [1mThe array of cluster predictions for k = 10 using PCA data is as follows:
 
 [0m[1 1 4 4 5 1 7 7 1 9 0 4 4 5 9 9 0 9 7 4 0 1 4 4 4 4 9 0 1 6 9 9 3 9 8 4 2

@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+kmeans_analysisx.py
+logx.py
+pandasx.py
+timex.py
+
 # Distribution / packaging
 .Python
 build/

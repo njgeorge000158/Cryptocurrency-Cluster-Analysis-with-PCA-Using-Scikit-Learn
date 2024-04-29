@@ -1,4 +1,4 @@
-This folder holds the input file for the IPython Notebook, crypto_clustering.ipynb.
+This folder holds the input file for the Google Colab Notebook, crypto_clustering_colab.ipynb.
 
 ----
 

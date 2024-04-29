@@ -1,4 +1,4 @@
-This folder includes the images of tables and plots displayed in the IPython notebook, crypto_clustering.ipynb: the IPython Notebook generates the images in Image Mode (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
+This folder includes the images of tables and plots displayed in the Google Colab notebook, crypto_clustering_colab.ipynb: the Google Colab Notebook generates the images in Image Mode (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
 
 ----
 

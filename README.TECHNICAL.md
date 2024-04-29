@@ -6,27 +6,7 @@
 
 ----
 
-If the computer has Anaconda, Jupyter Notebook, and a recent version of Python, the IPython notebook already has the following dependencies installed: datetime, io, json, matplotlib, numpy, pandas, pathlib, os, pandas, requests, requests_html, scipy.
-
-In addition to those modules, the IPython notebook needs the following to execute: holoviews, hvplot, geoviews, geopy, aspose-words, dataframe-image, plotly, sklearn.
-
-Here are the requisite Terminal commands for the installation of these peripheral modules:
-
-pip3 install -U holoviews
-
-pip3 install -U hvplot
-
-pip3 install -U geoviews
-
-pip3 install -U geopy
-
-pip3 install -U aspose-words
-
-pip3 install -U dataframe-image
-
-pip3 install -U scikit-learn
-
-pip3 install -U plotly
+This project only requires running the Google Colab Notebook, crypto_clustering_colab.ipynb.
 
 ----
 
@@ -34,19 +14,17 @@ pip3 install -U plotly
 
 ----
 
-The IPython notebook, crypto_clustering.ipynb, requires the following Python scripts with it in the same folder:
+The IPython notebook, crypto_clustering_colab.ipynb, requires the following Python scripts with it in the same folder:
 
-kmeans_analysis_functions.py
+kmeans_analysisx.py
 
-log_constants.py
+logx.py
 
-log_functions.py
+pandasx.py
 
-log_subroutines.py
+timex.py
 
-pandas_process_functions.py
-
-If the folders, logs and images, are not present, the IPython notebook will create them.  The IPython notebook, crypto_clustering.ipynb, needs the csv file, crypto_market_data.csv, in the folder, resources, to execute. To place the IPython notebook in Log Mode or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. If the program is in Log Mode, it writes information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG and HTML files in the folder, images.
+If the folders, logs and images, are not present, the Google Colab Notebook will create them.  The Google Colab Notebook, crypto_clustering_colab.ipynb, needs the csv file, crypto_market_data.csv, in the folder, resources, to execute. To place the Google Colab Notebook in Log Mode or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. If the program is in Log Mode, it writes information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG and HTML files in the folder, images.
 
 ----
 
@@ -56,7 +34,7 @@ If the folders, logs and images, are not present, the IPython notebook will crea
 
 #### Source code
 
-crypto_clustering.ipynb, kmeans_analysis_functions.py, log_constants.py, log_functions.py, log_subroutines.py, pandas_process_functions.py
+crypto_clustering.ipynb, kmeans_analysisx.py, logx.py, pandasx.py, timex.py
 
 #### Input files
 
@@ -84,17 +62,15 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
 
 #### main branch 
 
-|&rarr; [./crypto_clustering.ipynb](./crypto_clustering.ipynb)
+|&rarr; [./crypto_clustering_colab.ipynb](./crypto_clustering_colab_colab.ipynb)
 
-|&rarr; [./kmeans_analysis_functions.py](./kmeans_analysis_functions.py)
+|&rarr; [./kmeans_analysisx.py](./kmeans_analysisx.py)
 
-|&rarr; [./log_constants.py](./log_constants.py)
+|&rarr; [./logx.py](./logx.py)
 
-|&rarr; [./log_functions.py](./log_functions.py)
+|&rarr; [./pandasx.py](./pandasx.py)
 
-|&rarr; [./log_subroutines.py](./log_subroutines.py)
-
-|&rarr; [./pandas_process_functions.py](./pandas_process_functions.py)
+|&rarr; [./timex.py](./timex.py)
 
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
 
@@ -102,64 +78,64 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
 
 |&rarr; [./images/](./images/)
 
-  &emsp; |&rarr; [./images/crypto_clustering221KMeansMethodsLinePlots.png](./images/crypto_clustering221KMeansMethodsLinePlots.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab221KMeansMethodsLinePlots.png](./images/crypto_clustering_colab221KMeansMethodsLinePlots.png)
   
-  &emsp; |&rarr; [./images/crypto_clustering331KMeansPriceChangeScatterPlots.png](./images/crypto_clustering331KMeansPriceChangeScatterPlots.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab331KMeansPriceChangeScatterPlots.png](./images/crypto_clustering_colab331KMeansPriceChangeScatterPlots.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering341CryptocurrencyPriceChange3DScatterPlotk4.png](./images/crypto_clustering341CryptocurrencyPriceChange3DScatterPlotk4.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab341CryptocurrencyPriceChange3DScatterPlotk4.png](./images/crypto_clustering_colab341CryptocurrencyPriceChange3DScatterPlotk4.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering343CryptocurrencyPriceChange3DScatterPlotk3.png](./images/crypto_clustering343CryptocurrencyPriceChange3DScatterPlotk3.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab343CryptocurrencyPriceChange3DScatterPlotk3.png](./images/crypto_clustering_colab343CryptocurrencyPriceChange3DScatterPlotk3.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering344CryptocurrencyPriceChange3DScatterPlotk2.png](./images/crypto_clustering344CryptocurrencyPriceChange3DScatterPlotk2.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab344CryptocurrencyPriceChange3DScatterPlotk2.png](./images/crypto_clustering_colab344CryptocurrencyPriceChange3DScatterPlotk2.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering521KMeansMethodswithPCADataLinePlots.png](./images/crypto_clustering521KMeansMethodswithPCADataLinePlots.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab521KMeansMethodswithPCADataLinePlots.png](./images/crypto_clustering_colab521KMeansMethodswithPCADataLinePlots.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering631KMeansScatterPlotsPCA1vsPCA2.png](./images/crypto_clustering631KMeansScatterPlotsPCA1vsPCA2.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab631KMeansScatterPlotsPCA1vsPCA2.png](./images/crypto_clustering_colab631KMeansScatterPlotsPCA1vsPCA2.png)
   
-  &emsp; |&rarr; [./images/crypto_clustering632KMeansScatterPlotsPCA1vsPCA3.png](./images/crypto_clustering632KMeansScatterPlotsPCA1vsPCA3.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab632KMeansScatterPlotsPCA1vsPCA3.png](./images/crypto_clustering_colab632KMeansScatterPlotsPCA1vsPCA3.png)
   
-  &emsp; |&rarr; [./images/crypto_clustering633KMeansScatterPlotsPCA2vsPCA3.png](./images/crypto_clustering633KMeansScatterPlotsPCA2vsPCA3.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab633KMeansScatterPlotsPCA2vsPCA3.png](./images/crypto_clustering_colab633KMeansScatterPlotsPCA2vsPCA3.png)
   
-  &emsp; |&rarr; [./images/crypto_clustering641CryptocurrencyDataUsingPCA3DScatterPlotk2.png](./images/crypto_clustering641CryptocurrencyDataUsingPCA3DScatterPlotk2.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab641CryptocurrencyDataUsingPCA3DScatterPlotk2.png](./images/crypto_clustering_colab641CryptocurrencyDataUsingPCA3DScatterPlotk2.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering641CryptocurrencyDataUsingPCA3DScatterPlotk4.png](./images/crypto_clustering641CryptocurrencyDataUsingPCA3DScatterPlotk4.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab641CryptocurrencyDataUsingPCA3DScatterPlotk4.png](./images/crypto_clustering_colab641CryptocurrencyDataUsingPCA3DScatterPlotk4.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering642CryptocurrencyDataUsingPCA3DScatterPlotk10.png](./images/crypto_clustering642CryptocurrencyDataUsingPCA3DScatterPlotk10.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab642CryptocurrencyDataUsingPCA3DScatterPlotk10.png](./images/crypto_clustering_colab642CryptocurrencyDataUsingPCA3DScatterPlotk10.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering643CryptocurrencyDataUsingPCA3DScatterPlotk3.png](./images/crypto_clustering643CryptocurrencyDataUsingPCA3DScatterPlotk3.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab643CryptocurrencyDataUsingPCA3DScatterPlotk3.png](./images/crypto_clustering_colab643CryptocurrencyDataUsingPCA3DScatterPlotk3.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering711KMeansWCSSElbowMethodOriginal.png](./images/crypto_clustering711KMeansWCSSElbowMethodOriginal.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab711KMeansWCSSElbowMethodOriginal.png](./images/crypto_clustering_colab711KMeansWCSSElbowMethodOriginal.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering712KMeansWCSSElbowMethodPCA.png](./images/crypto_clustering712KMeansWCSSElbowMethodPCA.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab712KMeansWCSSElbowMethodPCA.png](./images/crypto_clustering_colab712KMeansWCSSElbowMethodPCA.png)
   
-  &emsp; |&rarr; [./images/crypto_clustering721KMeansPriceChangeOriginal.png](./images/crypto_clustering721KMeansPriceChangeOriginal.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab721KMeansPriceChangeOriginal.png](./images/crypto_clustering_colab721KMeansPriceChangeOriginal.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering722KMeansPriceChangePCA.png](./images/crypto_clustering722KMeansPriceChangePCA.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab722KMeansPriceChangePCA.png](./images/crypto_clustering_colab722KMeansPriceChangePCA.png)
   
-  &emsp; |&rarr; [./images/crypto_clustering731CryptocurrencyData3DScatterPlotK4.png](./images/crypto_clustering731CryptocurrencyData3DScatterPlotK4.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab731CryptocurrencyData3DScatterPlotK4.png](./images/crypto_clustering_colab731CryptocurrencyData3DScatterPlotK4.png)
 
-  &emsp; |&rarr; [./images/crypto_clustering731CryptocurrencyDatawithPCA3DScatterPlotK4.png](./images/crypto_clustering731CryptocurrencyDatawithPCA3DScatterPlotK4.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colab731CryptocurrencyDatawithPCA3DScatterPlotK4.png](./images/crypto_clustering_colab731CryptocurrencyDatawithPCA3DScatterPlotK4.png)
 
-  &emsp; |&rarr; [./images/crypto_clusteringTable121CryptocurrenciesDataFrameTable.png](./images/crypto_clusteringTable121CryptocurrenciesDataFrameTable.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colabTable121CryptocurrenciesDataFrameTable.png](./images/crypto_clustering_colabTable121CryptocurrenciesDataFrameTable.png)
   
-  &emsp; |&rarr; [./images/crypto_clusteringTable122CryptocurrenciesDataFrameSummaryStatistics.png](./images/crypto_clusteringTable122CryptocurrenciesDataFrameSummaryStatistics.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colabTable122CryptocurrenciesDataFrameSummaryStatistics.png](./images/crypto_clustering_colabTable122CryptocurrenciesDataFrameSummaryStatistics.png)
   
-  &emsp; |&rarr; [./images/crypto_clusteringTable131NormalizedCryptocurrencyDataFrameTable.png](./images/crypto_clusteringTable131NormalizedCryptocurrencyDataFrameTable.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colabTable131NormalizedCryptocurrencyDataFrameTable.png](./images/crypto_clustering_colabTable131NormalizedCryptocurrencyDataFrameTable.png)
 
-  &emsp; |&rarr; [./images/crypto_clusteringTable132NormalizedCryptocurrencyDataFrameSummaryStatistics.png](./images/crypto_clusteringTable132NormalizedCryptocurrencyDataFrameSummaryStatistics.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colabTable132NormalizedCryptocurrencyDataFrameSummaryStatistics.png](./images/crypto_clustering_colabTable132NormalizedCryptocurrencyDataFrameSummaryStatistics.png)
   
   &emsp; |&rarr; 
-[./images/crypto_clusteringTable321NormalizedCryptocurrencywithPredictionsDataFrameTable.png](./images/crypto_clusteringTable321NormalizedCryptocurrencywithPredictionsDataFrameTable.png)
+[./images/crypto_clustering_colabTable321NormalizedCryptocurrencywithPredictionsDataFrameTable.png](./images/crypto_clustering_colabTable321NormalizedCryptocurrencywithPredictionsDataFrameTable.png)
 
-  &emsp; |&rarr; [./images/crypto_clusteringTable421CryptocurrenciesPCADataFrameTable.png](./images/crypto_clusteringTable421CryptocurrenciesPCADataFrameTable.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colabTable421CryptocurrenciesPCADataFrameTable.png](./images/crypto_clustering_colabTable421CryptocurrenciesPCADataFrameTable.png)
   
-  &emsp; |&rarr; [./images/crypto_clusteringTable621CryptocurrencywithPredictionsUsingPCADataTable.png](./images/crypto_clusteringTable621CryptocurrencywithPredictionsUsingPCADataTable.png)
+  &emsp; |&rarr; [./images/crypto_clustering_colabTable621CryptocurrencywithPredictionsUsingPCADataTable.png](./images/crypto_clustering_colabTable621CryptocurrencywithPredictionsUsingPCADataTable.png)
   
   &emsp; |&rarr; [./images/README.md](./images/README.md)
 
 |&rarr; [./logs/](./logs/)
 
-  &emsp; |&rarr; [./logs/20240407crypto_clustering_log.txt](./logs/20240407crypto_clustering_log.txt)
+  &emsp; |&rarr; [./logs/20240429crypto_clustering_colab_log.txt](./logs/20240429crypto_clustering_colab_log.txt)
 
   &emsp; |&rarr; [./logs/README.md](./logs/README.md)
 

@@ -1,4 +1,4 @@
-# **Cryptocurrency Cluster Analysis with PCA Using Scikit-learn**
+# **Cryptocurrency K-Means Cluster Analysis with PCA**
 
 ----
 

@@ -14,7 +14,7 @@ This project only requires running the Google Colab Notebook, crypto_clustering_
 
 ----
 
-The IPython notebook, crypto_clustering_colab.ipynb, requires the following Python scripts with it in the same folder:
+The Google Colab Notebook, crypto_clustering_colab.ipynb, requires the following Python scripts with it in the same folder:
 
 kmeans_analysisx.py
 
@@ -50,9 +50,9 @@ n/a
 
 #### Software
 
-Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
+Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ----
 
@@ -65,12 +65,6 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
 |&rarr; [./crypto_clustering_colab.ipynb](./crypto_clustering_colab_colab.ipynb)
 
 |&rarr; [./kmeans_analysisx.py](./kmeans_analysisx.py)
-
-|&rarr; [./logx.py](./logx.py)
-
-|&rarr; [./pandasx.py](./pandasx.py)
-
-|&rarr; [./timex.py](./timex.py)
 
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
 
@@ -150,8 +144,6 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
 ### **References:**
 
 ----
-
-[Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
 
 [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 

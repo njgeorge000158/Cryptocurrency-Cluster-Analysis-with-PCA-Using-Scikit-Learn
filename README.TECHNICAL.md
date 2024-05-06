@@ -24,7 +24,7 @@ pandasx.py
 
 timex.py
 
-If the folders, logs and images, are not present, the Google Colab Notebook will create them.  The Google Colab Notebook, crypto_clustering_colab.ipynb, needs the csv file, crypto_market_data.csv, in the folder, resources, to execute. To place the Google Colab Notebook in Log Mode or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. If the program is in Log Mode, it writes information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG and HTML files in the folder, images.
+If the folders, logs and images, are not present, the Google Colab Notebook will create them.  The Google Colab Notebook, crypto_clustering_colab.ipynb, needs the csv file, crypto_market_data.csv, in the folder, resources, to execute. To place the Google Colab Notebook in Log Mode or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. In Log Mode, the notebook writes information to the log file in the folder, logs. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG and HTML files in the folder, images.
 
 ----
 
